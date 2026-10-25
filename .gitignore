@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Local data — real spending records and exports
+*.db
+mcp-server/exports/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local tooling
+.claude/
+.streamlit/

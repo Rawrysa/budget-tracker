@@ -1,0 +1,6 @@
+python-telegram-bot>=21.0
+anthropic>=0.52.0
+openai-whisper>=20231117
+httpx>=0.27.0
+python-dotenv>=1.0.0
+pydub>=0.25.1
